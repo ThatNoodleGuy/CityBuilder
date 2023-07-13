@@ -175,7 +175,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buttons1_0
+      name: buttons_0
       rect:
         serializedVersion: 2
         x: 28
@@ -183,7 +183,7 @@ TextureImporter:
         width: 125
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,7 +196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buttons1_1
+      name: buttons_1
       rect:
         serializedVersion: 2
         x: 218
@@ -204,7 +204,7 @@ TextureImporter:
         width: 126
         height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,7 +217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buttons1_2
+      name: buttons_2
       rect:
         serializedVersion: 2
         x: 430
@@ -225,7 +225,7 @@ TextureImporter:
         width: 130
         height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,7 +238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buttons1_3
+      name: buttons_3
       rect:
         serializedVersion: 2
         x: 627
@@ -246,7 +246,7 @@ TextureImporter:
         width: 125
         height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,15 +259,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buttons1_4
+      name: buttons_4
       rect:
         serializedVersion: 2
-        x: 816
+        x: 817
         y: 11
         width: 138
         height: 182
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,7 +280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buttons1_5
+      name: buttons_5
       rect:
         serializedVersion: 2
         x: 1001
@@ -288,7 +288,7 @@ TextureImporter:
         width: 125
         height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -311,12 +311,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      buttons1_0: -1257863645
-      buttons1_1: -1837546156
-      buttons1_2: 1895783115
-      buttons1_3: 1318864655
-      buttons1_4: 1425654533
-      buttons1_5: -100799398
+      buttons_0: -1257863645
+      buttons_1: -1837546156
+      buttons_2: 1895783115
+      buttons_3: 1318864655
+      buttons_4: 1425654533
+      buttons_5: -100799398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

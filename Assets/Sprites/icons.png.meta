@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a431554d41f23e45b211e9ff89ed7f3
+guid: 22f961048292ff341a7ab17a99a999d3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -175,127 +175,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buildings 1_0
+      name: icons_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 45
-        width: 102
-        height: 162
+        x: 14
+        y: 331
+        width: 87
+        height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5ab6ac0b499a164fb78b8685f5808e2
-      internalID: 1357600202
+      spriteID: e01dfaec4ec843f4e851b54ac818722f
+      internalID: 1668018136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings 1_1
+      name: icons_1
       rect:
         serializedVersion: 2
-        x: 171
-        y: 49
-        width: 123
-        height: 133
+        x: 21
+        y: 236
+        width: 103
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9affd4d142bbf2048baa1461a1f877eb
-      internalID: -332160741
+      spriteID: 7ee36f6d87248134b95ed8440b077671
+      internalID: 187033852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings 1_2
+      name: icons_2
       rect:
         serializedVersion: 2
-        x: 351
-        y: 46
-        width: 130
-        height: 151
+        x: 17
+        y: 131
+        width: 106
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1a089a08f1ced64a94f90186bdf2741
-      internalID: -1196091526
+      spriteID: 6ceba9138c7bb9a4c8c62caa6e615c33
+      internalID: 1870576764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings 1_3
+      name: icons_3
       rect:
         serializedVersion: 2
-        x: 532
-        y: 41
-        width: 113
-        height: 151
+        x: 27
+        y: 14
+        width: 82
+        height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d44b472a7cba2d468b54f8e0911bda8
-      internalID: 2099804036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buildings 1_4
-      rect:
-        serializedVersion: 2
-        x: 676
-        y: 26
-        width: 138
-        height: 182
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5429c1bd1b5770946ad9cff1fffb947d
-      internalID: 1795125665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buildings 1_5
-      rect:
-        serializedVersion: 2
-        x: 849
-        y: 30
-        width: 92
-        height: 169
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 229bde889a83ca247ba6d0693e195279
-      internalID: -1917757405
+      spriteID: 9693e586c8d6a6f479afeb1491a75390
+      internalID: -563643789
       vertices: []
       indices: 
       edges: []
@@ -311,12 +269,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      buildings 1_0: 1357600202
-      buildings 1_1: -332160741
-      buildings 1_2: -1196091526
-      buildings 1_3: 2099804036
-      buildings 1_4: 1795125665
-      buildings 1_5: -1917757405
+      icons_0: 1668018136
+      icons_1: 187033852
+      icons_2: 1870576764
+      icons_3: -563643789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
